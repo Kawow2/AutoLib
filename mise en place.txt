@@ -1,0 +1,6 @@
+Accueil : page d'accueil avec explication du projet 
+Stations à proximité : affiche une carte avec toutes les stations 
+Inscription : textbox avec un unsername et un password 
+Réserver : Proposer de choisir une borne et de donner les véicules disponibles. qQuand il est réserver, il est en cours d'utilisation 
+(faire un écran ?) ,et donner la possiblité de le rendre à une autre station. 
+Mon compte : donner les infos du compte ? historiques des informations ?
