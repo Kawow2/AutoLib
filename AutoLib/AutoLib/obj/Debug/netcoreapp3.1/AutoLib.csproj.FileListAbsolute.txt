@@ -57,4 +57,4 @@ C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\Auto
 C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\AutoLib\AutoLib\AutoLib\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\AutoLib\AutoLib\AutoLib\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\AutoLib\AutoLib\AutoLib\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\AutoLib\AutoLib\AutoLib\obj\Debug\netcoreapp3.1\AutoLib.csprojAssemblyReference.cache
+C:\Users\Epulapp\Documents\PolyTech\3A\S6\ISI\Automobile\Tp BD Auto Lib\Git\AutoLib\AutoLib\AutoLib\obj\Debug\netcoreapp3.1\Razor\Views\Home\Connexion.cshtml.g.cs
