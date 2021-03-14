@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l9Ze4S3dYWqwPqt7J+a3MJnJaHrKfRMV/Ncu2Zni50uq77Fxd6u/BjxZVMmRjme+9YU0NCWBFGj48DegdbweUQ==",
+  "dgSpecHash": "neoS3k1RfNPn0WVRbgti2Ev5322NHm53yoVEVSIGMF+h/R9ADCASNX3Lk+8Lr8OvIlzRgcuynP8HoO1/ag1CXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Epulapp\\Documents\\PolyTech\\3A\\S6\\ISI\\Automobile\\Tp BD Auto Lib\\Git\\AutoLib\\AutoLib\\AutoLib\\AutoLib.csproj",
   "expectedPackageFiles": [
@@ -26,10 +26,10 @@
     "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\Epulapp\\.nuget\\packages\\mysqlconnector\\0.69.9\\mysqlconnector.0.69.9.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
-    "C:\\Users\\Epulapp\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.2.4\\pomelo.entityframeworkcore.mysql.3.2.4.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\5.0.0-alpha.1\\pomelo.entityframeworkcore.mysql.5.0.0-alpha.1.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\pomelo.entityframeworkcore.mysql.design\\1.1.2\\pomelo.entityframeworkcore.mysql.design.1.1.2.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -104,16 +104,5 @@
     "C:\\Users\\Epulapp\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Version du package détectée en dehors de la contrainte de dépendance : Pomelo.EntityFrameworkCore.MySql 3.2.4 nécessite Microsoft.EntityFrameworkCore.Relational (>= 3.1.8 && < 5.0.0) alors que la version Microsoft.EntityFrameworkCore.Relational 5.0.4 a été résolue.",
-      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

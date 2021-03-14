@@ -1,4 +1,5 @@
 ﻿using AutoLib.Models;
+using AutoLib.Models.DAO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -31,6 +32,16 @@ namespace AutoLib.Controllers
         {
             return View();
         }
+        public IActionResult Vehicule()
+        {
+         
+
+             var mesVehicules = ServiceAutolib.getInstance().ListVehicules();
+            return View(mesVehicules);
+
+
+        }
+    
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

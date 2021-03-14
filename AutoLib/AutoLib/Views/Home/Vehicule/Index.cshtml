@@ -1,0 +1,51 @@
+﻿
+@model System.Data.DataTable
+@using System.Data;
+
+@if (Model != null)
+{
+    Console.WriteLine(Model);
+
+    <div class="container">
+        <div class="col-md-8 col-sm-8">
+            <div class="blanc">
+                <h1>Liste des Mangas </h1>
+            </div>
+
+            <table class="table table-bordered table-striped table-responsive">
+                <thead>
+                    <tr>
+                        <th> ID Manga</th>
+                        <th> Nom Genre</th>
+                        <th> Nom Dessinateur</th>
+                        <th>Nom Scénariste</th>
+                        <th>Titre</th>
+                        <th>Date Parution </th>
+                        <th>Prix</th>
+                        <th>Couverture</th>
+                        <th style="width:80px">Modifier</th>
+                        <th style="width:80px">Supprimer</th>
+                    </tr>
+                </thead>
+                @foreach (DataRow dataRow in Model.Rows)
+                {
+                    <tr>
+                        @foreach (var item in dataRow.ItemArray)
+                        {
+                            <td>
+                                @item.ToString()
+
+                            </td>
+                        }
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+}else
+{
+    <p> Yo</p>
+}
+
+
+
